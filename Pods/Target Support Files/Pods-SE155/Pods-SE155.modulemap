@@ -1,0 +1,6 @@
+framework module Pods_SE155 {
+  umbrella header "Pods-SE155-umbrella.h"
+
+  export *
+  module * { export * }
+}
